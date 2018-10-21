@@ -1,4 +1,4 @@
-# Indoor-visible-light-localization-based-on-deep-neural-network
+# VLC base on DNN
 
 Indoor visible light localization based on deep neural network,which uses deep neural network to positioning.The average positioning error is 2.5cm
 
